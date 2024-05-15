@@ -2,4 +2,4 @@
 
 ### Architecture Diagram
 
-![architecture diagram](./images/socials.png)
+![architecture diagram](./Images/socials.png)
